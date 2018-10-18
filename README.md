@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+mona repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Don't know what to write here
+* and another list element
 
 ## Getting started
 
